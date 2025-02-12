@@ -1,0 +1,45 @@
+{
+  "name": "world-networks-web",
+  "version": "1.0.0",
+  "description": "A web application to display networks from around the world with light and dark themes, search functionality, and user authentication.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "iptv",
+    "networks",
+    "streaming",
+    "react",
+    "light-theme",
+    "dark-theme"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-i18next": "^11.8.5",
+    "i18next": "^21.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "babel-eslint": "^10.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

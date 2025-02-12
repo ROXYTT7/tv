@@ -1,0 +1,23 @@
+{
+    "welcome": "Hoş geldiniz",
+    "search": "Arama",
+    "login": "Giriş",
+    "register": "Kayıt Ol",
+    "networks": "Ağlar",
+    "player": "Oynatıcı",
+    "language": "Dil",
+    "lightTheme": "Aydınlık Tema",
+    "darkTheme": "Karanlık Tema",
+    "country": "Ülke",
+    "networkName": "Ağ Adı",
+    "networkLogo": "Ağ Logosu",
+    "flag": "Bayrak",
+    "noResults": "Sonuç bulunamadı",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "logout": "Çıkış Yap",
+    "footerText": "Tüm hakları saklıdır."
+}

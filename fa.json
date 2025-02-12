@@ -1,0 +1,23 @@
+{
+    "welcome": "خوش آمدید",
+    "search": "جستجو",
+    "login": "ورود",
+    "register": "ثبت نام",
+    "networks": "شبکه ها",
+    "player": "پخش کننده",
+    "language": "زبان",
+    "lightTheme": "تم روشن",
+    "darkTheme": "تم تاریک",
+    "country": "کشور",
+    "networkName": "نام شبکه",
+    "networkLogo": "لوگوی شبکه",
+    "flag": "پرچم",
+    "noResults": "نتیجه ای یافت نشد",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "confirmPassword": "تأیید رمز عبور",
+    "email": "ایمیل",
+    "submit": "ارسال",
+    "cancel": "لغو",
+    "logout": "خروج"
+}

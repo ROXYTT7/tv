@@ -1,0 +1,49 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+header, footer {
+    background-color: #1e1e1e;
+}
+
+a {
+    color: #bb86fc;
+}
+
+a:hover {
+    color: #3700b3;
+}
+
+.network-item {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+}
+
+.network-item:hover {
+    background-color: #333333;
+}
+
+.search-menu input {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: 1px solid #333333;
+}
+
+.search-menu input::placeholder {
+    color: #aaaaaa;
+}
+
+.player {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+}
+
+.button {
+    background-color: #bb86fc;
+    color: #ffffff;
+}
+
+.button:hover {
+    background-color: #3700b3;
+}
